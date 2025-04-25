@@ -52,11 +52,11 @@ This project is a simple API implementation using the Go programming language (G
 | DELETE | `/students/{id}` | Delete a student by ID |
 
 ## Team Members
-- **Jayady Managam Gultom** (125230--)
-- **Firman Sulaiman** (125230--)
-- **Adrian Wahyuda Aditya P** (125230--)
-- **Agung Dwi Pradipta** (125230--)
-- **Ahmad Hardiansyah** (125230--)
+- **Jayady Managam Gultom** (1252----)
+- **Firman Sulaiman** (1252----)
+- **Adrian Wahyuda Aditya P** (1252----)
+- **Agung Dwi Pradipta** (1252----)
+- **Ahmad Hardiansyah** (1252----)
 
 ## License
 This project is created for academic purposes as part of the **Integrative Programming and Technology** course and can be used for further learning.
