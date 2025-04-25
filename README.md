@@ -1,7 +1,7 @@
 # Application Programming Interface Project
 
 ## Description
-This project is a simple API implementation using the Go programming language (Golang). The API provides CRUD (Create, Read, Update, Delete) operations for managing student data in a MySQL database.
+This repository contains a RESTful API project built with Golang to manage student data. It helps students understand and implement basic REST API principles by providing CRUD operations with MySQL as the database. This project aims to enhance understanding of designing stateless and resource-based endpoints following REST architecture.
 
 ## Technologies Used
 - **Golang**
